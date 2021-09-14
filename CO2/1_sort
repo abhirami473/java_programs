@@ -37,11 +37,3 @@ public class SortString{
     }
 }
 
-OUTPUT
-
-Enter the limit:3
-Enter the elements : 
-Duck
-Hen
-Cat
-[Cat, Duck, Hen]
