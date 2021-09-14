@@ -59,19 +59,3 @@ public class MetrixAddition {
     }
 }
 
-OUTPUT
-
-Enter Number of Rows:3
-Enter Number of columns:3
-Enter the elements of matrix1:
-1 1 1
-1 1 1
-1 1 1
-Enter the elements of matrix2:
-1 1 1
-1 1 1
-1 1 1
-The metrix after adding given 2 matrices:
-	2	2	2
-	2	2	2
-	2	2	2
