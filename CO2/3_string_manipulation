@@ -51,16 +51,4 @@ public class StringManipulations {
     }
 }
 
-OUTPUT
 
-Enter first string : apple
-Enter Second string : cherry
-After String adding apple and cherry is : applecherry
-Length of apple is : 5
-Length of cherry is : 6
-Enter the position of Character you want to access : 3
-Character at position 3 of apple is : p
-Character at position 3 of cherry is : e
-Uppercase of string apple is: APPLE
-Lowercase of string apple is: apple
-Two Strings are not equal!
