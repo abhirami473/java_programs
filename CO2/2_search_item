@@ -38,15 +38,3 @@ public class SearchArrayElement {
     }
 }
 
-OUTPUT
-
-Enter the limit:7
-Enter Array Elements:1 
-2
-3
-4
-5
-6
-7
-Enter the Item to be searched :4
-Item found in the array!!!
