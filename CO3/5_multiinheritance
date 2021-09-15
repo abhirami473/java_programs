@@ -51,18 +51,3 @@ public class MultipleInheritance {
     }
 }
 
-OUTPUT
-Enter Student Name : Abirami
-Roll number of the student : 1
-Enter the Maximum mark : 50
-Enter the mark optained : 45
-Enter the sports score : 75
-
-___________________________________
-
-Name of the Student : Abirami
-Roll number of the Student : 1
-Mark optained (50) : 45
-Mark optained Sports (100): 75
-___________________________________
-
