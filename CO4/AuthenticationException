@@ -33,11 +33,5 @@ public class AuthenticateUser {
     }
 }
 
-OUTPUT 
-Enter the Username: abhi
-
-Enter the Password: user
-
-			AuthenticationException: *Username and password not matching!!!
 
 
