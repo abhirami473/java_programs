@@ -44,16 +44,4 @@ public class PositiveIntegersAvg {
     }
 }
 
-OUTPUT
-
-
-Enter the limit: 5
-Enter the Numbers: 
--1 
-	Exception: *Please enter a non negative number!!!
-2
-3
-4
-5
-The average of positive numbers entered is : 3.5
 
