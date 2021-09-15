@@ -60,20 +60,3 @@ public class RunnableInterface {
     }
 }
 
-OUTPUT 
-
-
-Enter the limit for generating even numbers: 5
-
-Enter the limit for Fibonacci numbers: 4
-
-Fibonacci numbers are: 
-1
-1
-2
-3
-
-The Even numbers upto 5 is : 
-2
-4
-
